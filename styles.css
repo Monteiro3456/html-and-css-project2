@@ -25,6 +25,7 @@ nav button {
   border-radius: 7px;
   color: #fff;
   background-color:rgb(98, 0, 255);
+  cursor:pointer;
 }
 
 header{
@@ -60,6 +61,7 @@ header{
   border-radius: 7px;
   color: #fff;
   background-color:rgb(98, 0, 255);
+  cursor:pointer;
 }
 
 
